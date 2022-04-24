@@ -5,7 +5,8 @@ Merhablar! forumlarda imza olarak kullanabileceğiniz ya da farklı amaçlarla k
 <br>
 <hr>
 <br>
-# İletişim
+## İletişim 
+<br>
 Discord: discord.gg/coders<br>
 Web Site: https://covid-19code.xyz/<br>
 Kişisel web site: https://inflames.xyz/
